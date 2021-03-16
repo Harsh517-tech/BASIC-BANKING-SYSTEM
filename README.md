@@ -10,5 +10,7 @@ No Login Page. No User Creation. Only transfer of money between multiple users
 
 # Tech Stack 
 FRONT END: HTML, CSS, JavaScript 
+
 BACK END: PHP DATABASE MySQL.
+
 The Website is Hosted at 000webhost. https://harsh-internship.000webhostapp.com/  
